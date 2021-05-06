@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-fm-transmitter 20090323103922\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.03.23 10:39+0200\n"
+"PO-Revision-Date: 2009.03.23 10:39+0200\n"
+"Last-Translator:\n"
+"Language-Team: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "fmtx_fi_fmtx_on_off"
+msgstr "UKW-Sender aktiviert"
+
+msgid "fmtx_fi_frequency"
+msgstr "Frequenz"
+
+msgid "fmtx_ib_general_error"
+msgstr "Verwenden des UKW-Senders nicht möglich"
+
+msgid "fmtx_ni_cable_error"
+msgstr ""
+"Verwenden des UKW-Senders bei angeschlossenem Kopfhörer oder TV-Kabel nicht "
+"möglich. Zur Verwendung des UKW-Senders Kabel entfernen."
+
+msgid "fmtx_ni_disabled"
+msgstr "UKW-Sender deaktiviert"
+
+msgid "fmtx_ni_usb_error"
+msgstr ""
+"Verwenden des UKW-Senders bei angeschlossenem USB nicht möglich. Zur "
+"Verwendung des UKW-Senders USB entfernen."
+
+msgid "fmtx_ti_fm_transmitter"
+msgstr "UKW-Sender"
+
+msgid "fmtx_ti_select_frequency"
+msgstr "Frequenz auswählen"
+
+msgid "fmtx_va_frequency"
+msgstr "%s MHz"
+
+msgid "fmxt_ap_fm_transmitter"
+msgstr "UKW-Sender"

@@ -1,0 +1,47 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-fm-transmitter 20090323103922\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.03.23 10:39+0200\n"
+"PO-Revision-Date: 2009.03.23 10:39+0200\n"
+"Last-Translator:\n"
+"Language-Team: sv_SE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "fmtx_fi_fmtx_on_off"
+msgstr "FM-sändare på"
+
+msgid "fmtx_fi_frequency"
+msgstr "Frekvens"
+
+msgid "fmtx_ib_general_error"
+msgstr "Det gick inte att använda FM-sändare"
+
+msgid "fmtx_ni_cable_error"
+msgstr ""
+"Det gick inte att använda FM-sändaren medan headsetet eller TV ut-kabeln är "
+"ansluten.\n"
+"Koppla från kabeln om du vill fortsätta att använda FM-sändaren."
+
+msgid "fmtx_ni_disabled"
+msgstr "FM-sändare inaktiverad"
+
+msgid "fmtx_ni_usb_error"
+msgstr ""
+"Det gick inte att använda FM-sändaren medan USB är ansluten.\n"
+"Koppla från USB om du vill använda FM-sändaren."
+
+msgid "fmtx_ti_fm_transmitter"
+msgstr "FM-sändare"
+
+msgid "fmtx_ti_select_frequency"
+msgstr "Välj frekvens"
+
+msgid "fmtx_va_frequency"
+msgstr "%s MHz"
+
+msgid "fmxt_ap_fm_transmitter"
+msgstr "FM-sändare"

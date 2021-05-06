@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-fm-transmitter 20090323103922\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.03.23 10:39+0200\n"
+"PO-Revision-Date: 2009.03.23 10:39+0200\n"
+"Last-Translator:\n"
+"Language-Team: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2\n"
+
+msgid "fmtx_fi_fmtx_on_off"
+msgstr "Включить FM-передатчик"
+
+msgid "fmtx_fi_frequency"
+msgstr "Частота"
+
+msgid "fmtx_ib_general_error"
+msgstr "Не удается использовать FM-передатчик"
+
+msgid "fmtx_ni_cable_error"
+msgstr ""
+"Невозможно использовать FM-передатчик, когда подключена гарнитура или кабель "
+"ТВ-выхода.\n"
+"Отключите кабель, чтобы продолжить использование FM-передатчика."
+
+msgid "fmtx_ni_disabled"
+msgstr "FM-передатчик отключен"
+
+msgid "fmtx_ni_usb_error"
+msgstr ""
+"Невозможно использовать FM-передатчик при USB-подключении.\n"
+"Отключите USB, чтобы возобновить работу FM-передатчика."
+
+msgid "fmtx_ti_fm_transmitter"
+msgstr "FM-передатчик"
+
+msgid "fmtx_ti_select_frequency"
+msgstr "Укажите частоту"
+
+msgid "fmtx_va_frequency"
+msgstr "%s МГц"
+
+msgid "fmxt_ap_fm_transmitter"
+msgstr "FM-передатчик"

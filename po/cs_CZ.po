@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-fm-transmitter 20090323103922\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.03.23 10:39+0200\n"
+"PO-Revision-Date: 2009.03.23 10:39+0200\n"
+"Last-Translator:\n"
+"Language-Team: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2\n"
+
+msgid "fmtx_fi_fmtx_on_off"
+msgstr "FM vysílač zapnut"
+
+msgid "fmtx_fi_frequency"
+msgstr "Frekvence"
+
+msgid "fmtx_ib_general_error"
+msgstr "FM vysílač nelze použít"
+
+msgid "fmtx_ni_cable_error"
+msgstr ""
+"Nelze použít FM vysílač během připojení headsetu nebo kabelu TV výstupu.\n"
+"Pro obnovení funkce FM vysílače odpojte kabel."
+
+msgid "fmtx_ni_disabled"
+msgstr "FM vysílač vypnut"
+
+msgid "fmtx_ni_usb_error"
+msgstr ""
+"Nelze použít FM vysílač během připojení USB.\n"
+"Pro obnovení funkce FM vysílače odpojte USB."
+
+msgid "fmtx_ti_fm_transmitter"
+msgstr "FM vysílač"
+
+msgid "fmtx_ti_select_frequency"
+msgstr "Zvolte frekvenci"
+
+msgid "fmtx_va_frequency"
+msgstr "%s MHz"
+
+msgid "fmxt_ap_fm_transmitter"
+msgstr "FM vysílač"

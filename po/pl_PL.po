@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-fm-transmitter 20090323103922\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.03.23 10:39+0200\n"
+"PO-Revision-Date: 2009.03.23 10:39+0200\n"
+"Last-Translator:\n"
+"Language-Team: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2\n"
+
+msgid "fmtx_fi_fmtx_on_off"
+msgstr "Nadajnik UKF FM włączony"
+
+msgid "fmtx_fi_frequency"
+msgstr "Częstotliwość"
+
+msgid "fmtx_ib_general_error"
+msgstr "Nie można korzystać z nadajnika UKF FM"
+
+msgid "fmtx_ni_cable_error"
+msgstr ""
+"Nie można korzystać z nadajnika UKF FM po podłączeniu słuchawek lub "
+"telewizyjnego kabla sygnału wyjściowego.\n"
+"Odłącz kabel, aby korzystać z nadajnika UKF FM."
+
+msgid "fmtx_ni_disabled"
+msgstr "Nadajnik UKF FM wyłączony"
+
+msgid "fmtx_ni_usb_error"
+msgstr ""
+"Nie można korzystać z nadajnika UKF FM po podłączeniu urządzenia USB.\n"
+"Odłącz urządzenie USB, aby korzystać z nadajnika UKF FM."
+
+msgid "fmtx_ti_fm_transmitter"
+msgstr "Nadajnik FM"
+
+msgid "fmtx_ti_select_frequency"
+msgstr "Wybierz częstotliwość"
+
+msgid "fmtx_va_frequency"
+msgstr "%s MHz"
+
+msgid "fmxt_ap_fm_transmitter"
+msgstr "Nadajnik FM"

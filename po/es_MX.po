@@ -1,0 +1,47 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-fm-transmitter 20090323103922\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.03.23 10:39+0200\n"
+"PO-Revision-Date: 2009.03.23 10:39+0200\n"
+"Last-Translator:\n"
+"Language-Team: es_MX\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "fmtx_fi_fmtx_on_off"
+msgstr "Transmisor de FM encendido"
+
+msgid "fmtx_fi_frequency"
+msgstr "Frecuencia"
+
+msgid "fmtx_ib_general_error"
+msgstr "Imposible utilizar transmisor de FM"
+
+msgid "fmtx_ni_cable_error"
+msgstr ""
+"Imposible utilizar transmisor de FM cuando está conectado el auricular o el "
+"cable TV out.\n"
+"Desenchufe el cable para seguir usando el Transmisor de FM."
+
+msgid "fmtx_ni_disabled"
+msgstr "Transmisor de FM desactivado"
+
+msgid "fmtx_ni_usb_error"
+msgstr ""
+"Imposible utilizar el transmisor de FM cuando está conectado el cable USB.\n"
+"Desenchufe el cable para  seguir usando el transmisor de FM."
+
+msgid "fmtx_ti_fm_transmitter"
+msgstr "Transmisor de FM"
+
+msgid "fmtx_ti_select_frequency"
+msgstr "Seleccione frecuencia"
+
+msgid "fmtx_va_frequency"
+msgstr "%s MHz"
+
+msgid "fmxt_ap_fm_transmitter"
+msgstr "Transmisor de FM"
