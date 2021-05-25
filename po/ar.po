@@ -1,0 +1,47 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-fm-transmitter 20090323103922\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.03.23 10:39+0200\n"
+"PO-Revision-Date: 2010-06-08 01:01+0400\n"
+"Last-Translator: Osama Al Abrash <madboy221@hotmail.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "fmtx_fi_fmtx_on_off"
+msgstr "FM تشغيل مرسال"
+
+msgid "fmtx_fi_frequency"
+msgstr "التردد"
+
+msgid "fmtx_ib_general_error"
+msgstr "FM غير قادر على تشغيل مرسال"
+
+msgid "fmtx_ni_cable_error"
+msgstr ""
+" أثناء توصيل سماعة الرأس أو كيبل التلفاز FMغير قادر على تشغيل مرسال.\n"
+" FM أفصل الكيبل لأستمرار أستخدام مرسال."
+
+msgid "fmtx_ni_disabled"
+msgstr "FM تعطيل مرسال"
+
+msgid "fmtx_ni_usb_error"
+msgstr ""
+"USB أثناء توصيله ب FM غير قادر على تشغيل مرسال.\n"
+" FM أفصل الكيبل لأستمرار أستخدام مرسال."
+
+msgid "fmtx_ti_fm_transmitter"
+msgstr "FM مرسل"
+
+msgid "fmtx_ti_select_frequency"
+msgstr "تحديد التردد"
+
+msgid "fmtx_va_frequency"
+msgstr "%s MHz"
+
+msgid "fmxt_ap_fm_transmitter"
+msgstr "FM مرسال"
+
