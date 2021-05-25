@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-fm-transmitter 20090323103922\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.03.23 10:39+0200\n"
+"PO-Revision-Date: 2010-05-29 21:32+0200\n"
+"Last-Translator: Aranel Surion <aranel@aranelsurion.org>\n"
+"Language-Team: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "fmtx_fi_fmtx_on_off"
+msgstr "FM vericisi açık"
+
+msgid "fmtx_fi_frequency"
+msgstr "Frekans"
+
+msgid "fmtx_ib_general_error"
+msgstr "FM vericisi kullanılamıyor"
+
+msgid "fmtx_ni_cable_error"
+msgstr ""
+"Kulaklık veya TV çıkış kablosu bağlıyken FM vericisi kullanılamıyor.\n"
+"Kabloyu çıkarın ve FM vericisini kullanmaya devam edin."
+
+msgid "fmtx_ni_disabled"
+msgstr "FM vericisi etkisizleştirildi"
+
+msgid "fmtx_ni_usb_error"
+msgstr ""
+"USB bağlıyken FM vericisi kullanılamıyor.\n"
+"FM vericisini kullanmaya devam etmek için USB kablosunu çıkarın."
+
+msgid "fmtx_ti_fm_transmitter"
+msgstr "FM vericisi"
+
+msgid "fmtx_ti_select_frequency"
+msgstr "Frekans seçin"
+
+msgid "fmtx_va_frequency"
+msgstr "%s MHz"
+
+msgid "fmxt_ap_fm_transmitter"
+msgstr "FM vericisi"
