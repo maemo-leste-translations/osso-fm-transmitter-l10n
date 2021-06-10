@@ -1,0 +1,45 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.03.23 10:39+0200\n"
+"PO-Revision-Date: 2010-11-30 11:45+0000\n"
+"Last-Translator: \n"
+"Language-Team: Khmer (http://www.transifex.net/projects/p/n900-extra-translations/language/km/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: km\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "fmtx_fi_fmtx_on_off"
+msgstr "ដំណើរការផ្សាយសំលេងតាមវិទ្យុ FM"
+
+msgid "fmtx_fi_frequency"
+msgstr "ហ្វ្រេកង់"
+
+msgid "fmtx_ib_general_error"
+msgstr "មិនអាចប្រើការផ្សាយសំលេងតាមវិទ្យុ FM"
+
+msgid "fmtx_ni_cable_error"
+msgstr "មិនអាចប្រើការផ្សាយសំលេងតាមវិទ្យុ FM ពេលកំពុងតភ្ជាប់ទៅទូរទស្សន៍។\nnផ្តាច់ខ្សែរដែលភ្ជាប់ទៅទូរទស្សន៍ចេញដើម្បីបន្តការការផ្សាយសំលេងតាមវិទ្យុ FM ។"
+
+msgid "fmtx_ni_disabled"
+msgstr "ធ្វើអោយការផ្សាយសំលេងតាមវិទ្យុ FM ប្រើការលែងបាន"
+
+msgid "fmtx_ni_usb_error"
+msgstr "មិនអាចប្រើការផ្សាយសំលេងតាមវិទ្យុ FM ពេលខ្សែរ USB កំពុងតភ្ជាប់។\nផ្តាច់ USB ចេញដើម្បីបន្តការផ្សាយសំលេងតាមវិទ្យុ FM ។"
+
+msgid "fmtx_ti_fm_transmitter"
+msgstr "ផ្សាយសំលេងតាមវិទ្យុ FM"
+
+msgid "fmtx_ti_select_frequency"
+msgstr "ជ្រើសហ្វ្រេកង់"
+
+msgid "fmtx_va_frequency"
+msgstr "%s MHz"
+
+msgid "fmxt_ap_fm_transmitter"
+msgstr "ផ្សាយសំលេងតាមវិទ្យុ FM"
