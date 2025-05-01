@@ -1,0 +1,43 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-fm-transmitter 20090323103922\n"
+"Report-Msgid-Bugs-To: parazyd@dyne.org\n"
+"POT-Creation-Date: 2009.03.23 10:39+0200\n"
+"PO-Revision-Date: 2009.03.23 10:39+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgid "fmtx_fi_fmtx_on_off"
+msgstr ""
+
+msgid "fmtx_fi_frequency"
+msgstr ""
+
+msgid "fmtx_ib_general_error"
+msgstr ""
+
+msgid "fmtx_ni_cable_error"
+msgstr ""
+
+msgid "fmtx_ni_disabled"
+msgstr ""
+
+msgid "fmtx_ni_usb_error"
+msgstr ""
+
+msgid "fmtx_ti_fm_transmitter"
+msgstr ""
+
+msgid "fmtx_ti_select_frequency"
+msgstr ""
+
+msgid "fmtx_va_frequency"
+msgstr ""
+
+msgid "fmxt_ap_fm_transmitter"
+msgstr ""
